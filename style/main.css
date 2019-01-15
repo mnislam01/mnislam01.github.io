@@ -248,6 +248,7 @@ header h5{
 }
 
 .row-halves .col{
+    text-align: center;
     width: 49%;
 
 }
