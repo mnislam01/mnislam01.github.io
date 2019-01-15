@@ -253,6 +253,7 @@ header h5{
 }
 
 .col{
+	margin-right: 10px;
 	text-align: center;
     border: 1px solid #222222;
     background: #222222;
