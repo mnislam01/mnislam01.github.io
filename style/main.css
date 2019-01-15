@@ -139,7 +139,9 @@ header h5{
 }
 
 .about p{
+    margin-top: 25px;
     color: #b2b2b2;
+    margin-bottom: 0px;
 }
 
 .about span{
