@@ -248,12 +248,12 @@ header h5{
 }
 
 .row-halves .col{
-    text-align: center;
     width: 49%;
 
 }
 
 .col{
+	text-align: center;
     border: 1px solid #222222;
     background: #222222;
     color: #b2b2b2;
