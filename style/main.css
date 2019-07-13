@@ -169,46 +169,28 @@ header h5{
     background-color: #424242;
 }
 
-.html{
-    width: 95%;
-
-}
-
-.css{
-    width: 80%;
-
-}
-
-.javascript{
-    width: 70%;
-}
-
-.nodejs{
-    width: 70%;
-}
-
-.jquery{
-    width: 70%;
-}
-
 .python{
-    width: 95%;
+    width: 100%;
 }
 
 .django{
-    width: 70%;
+    width: 100%;
+}
+
+.drf{
+    width: 100%;
 }
 
 .java{
     width: 95%;
 }
 
-.springboot{
+.spring{
     width: 70%;
 }
 
-.javafx{
-    width: 70%;
+.test{
+    width: 85%;
 }
 
 .android{
@@ -219,9 +201,6 @@ header h5{
     width: 95%;
 }
 
-.photoshop{
-    width: 50%;
-}
 
 .gradle{
     width: 0%;
